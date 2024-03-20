@@ -1,6 +1,9 @@
 • Graduando de Engenharia de Software 🎓
+
 • Tecnologia e programação 👨🏼‍💻
+
 • Distrito Federal, Brasil 🇧🇷
+
 • Técnico em Informática - IFMA, Campus Avançado Porto Franco 🖥️
 
 <!---
