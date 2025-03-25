@@ -29,6 +29,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaionBLima&theme=dracula&show_icons=true" />
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaionBLima&layout=compact)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaion-brand%C3%A3o-lima-502b922bb/)](https://www.linkedin.com/in/kaion-brand%C3%A3o-lima-502b922bb/)
