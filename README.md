@@ -1,19 +1,38 @@
-# 🕴️Sobre mim:
-• 🎓 Graduando de Engenharia de Software 
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-• 👨🏼‍💻 Tecnologia e programação 
+## Sobre mim
 
-• Distrito Federal, Brasil 🇧🇷
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
+- 💼 Procurando trabalho de prefência com Dev. Java.
+- 🌱 Aprendendo mais sobre Java com paradigmas de POO. Aprendendo também sobre Python.
 
-• 🖥️ Técnico em Informática - IFMA, Campus Avançado Porto Franco 
+## Minhas Skills
 
-## Social:
-<div>
-  <a href="https://instagram.com/kaionbranlim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaion-brand%C3%A3o-lima-502b922bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<!---
- <a href = "mailto:kaionbrandlim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-kaionBLima/kaionBLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PYTHON](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/kaionBLima" title="Perfil do Kaion">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaion-brand%C3%A3o-lima-502b922bb/)](https://www.linkedin.com/in/kaion-brand%C3%A3o-lima-502b922bb/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaionbrandlim@gmail.com)](mailto:kaionbrandlim@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kaionBLima)
