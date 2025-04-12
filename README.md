@@ -4,7 +4,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
 - 💼 Procurando trabalho de prefência com Dev. Java.
-- 🌱 Aprendendo mais sobre Java com paradigmas de POO. Aprendendo também sobre Python.
+- 🌱 Aprendendo mais sobre Java com paradigmas de POO e melhorando conhecimento Python.
 
 ## Minhas Skills que uso no dia a dia
 
