@@ -1,16 +1,15 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Universidade Católica de Brasília.
-- 💼 Procurando trabalho de prefência como Cientista de dados com Python ou Dev. Java.
-- 🌱 Aprendendo mais sobre Java com paradigmas de POO e Python direcionado a Ciência de dados.
+- 🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília.
+- 💼 Apaixonado por dados
+- 🌱 Aprendendo e me dedicando a Python direcionado para Desenvolvimento e para Ciência de dados.
 
 ## Minhas Skills que uso no dia a dia
 
 **Aplicações e dados**
 
-<img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img aling="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
