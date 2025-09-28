@@ -24,10 +24,6 @@
 
 <br/>
 
-<a href="https://github.com/kaionBLima" title="Perfil do Kaion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaionBLima&theme=dracula&show_icons=true" />
-</a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaionBLima&layout=compact)
 
 ## Onde me encontrar
